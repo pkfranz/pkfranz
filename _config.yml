@@ -7,7 +7,7 @@ owner: Paul Franz # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 email: paulkfranz@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.paul-franz.com" # the base hostname & protocol for your site
 social:
   email: paulkfranz@gmail.com
   vimeo: https://www.vimeo.com/pkfranz
