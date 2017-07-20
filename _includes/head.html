@@ -1,4 +1,5 @@
 <head>
+
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | Video. Design. Web.</title>
@@ -11,7 +12,7 @@
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ "/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{ "/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="images/pfranz_social.jpg" />
+  <meta property="og:image" content="//www.paul-franz.com/images/pfranz_social.jpg" />
   <meta property="og:image:width" content="1500" />
   <meta property="og:image:height" content="754" />
 
@@ -19,6 +20,16 @@
   <meta name="twitter:description" content="Paul Franz is a Washington, D.C.-based multimedia and digital communications expert with experience in video, web development, management, and design." />
   <meta name="twitter:title" content="Paul Franz | Video. Design. Web." />
   <meta name="twitter:site" content="@pkfranz" />
-  <meta name="twitter:image" content="images/pfranz_twitter.jpg" />
+  <meta name="twitter:image" content="//www.paul-franz.com/images/pfranz_twitter.jpg" />
   <meta name="twitter:creator" content="@pkfranz" />
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-22164334-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
 </head>
