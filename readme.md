@@ -1,6 +1,6 @@
 # About this website
 
-This is the 2018 version of my professional portfolio. It is a Jekyll site served with GitHub Pages. It's based on [HTML5 UP's](https://html5up.net/) work available through Creative Commons.  They make building beautiful and fast-performing websites a breeze.
+This is the 2020 version of my professional portfolio. It is a Jekyll site served with GitHub Pages. It's based on [HTML5 UP's](https://html5up.net/) work available through Creative Commons.  They make building beautiful and fast-performing websites a breeze.
 
 ## SSL documentation
 
