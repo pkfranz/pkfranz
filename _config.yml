@@ -1,7 +1,7 @@
 # Site settings
 title: Paul Franz
 description: |
-  Geospatial. Motion. Web.
+  Video. Web. Geospatial.
   Digital Storyteller.
 owner: Paul Franz # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
@@ -12,7 +12,7 @@ social:
   email: paulkfranz@gmail.com
   vimeo: https://www.vimeo.com/pkfranz
   linkedin-square: https://linkedin.com/in/pkfranz
-  twitter: https://twitter.com/pkfranz
+  #twitter: https://twitter.com/pkfranz
   github: https://github.com/pkfranz
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
